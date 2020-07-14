@@ -1,0 +1,6 @@
+module.exports = {
+  jira: {
+    host: 'Your JIRA instance FQDN with trailing slash',
+    auth: 'USER:PASS in base64'
+  }
+}

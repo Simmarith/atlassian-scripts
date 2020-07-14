@@ -1,0 +1,16 @@
+{
+  "name": "atlassian-scripts",
+  "version": "1.0.0",
+  "description": "a test wrapper for jira and confluence apis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "queryJira": "node queryJira.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Menzel",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^5.3.1"
+  }
+}
