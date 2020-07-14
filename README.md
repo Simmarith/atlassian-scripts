@@ -2,8 +2,8 @@
 this toolbox is made for quick prototyping against the rest apis of Jira and Confluence
 
 ## Installation
-`npm -i`
-copy `config.js.example` to `config.js` and fill out your information
+- `npm -i`
+- copy `config.js.example` to `config.js` and fill out your information
 
 ## Usage
 ### Query Jira
