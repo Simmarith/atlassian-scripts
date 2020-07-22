@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "queryJira": "node queryJira.js",
+    "getGroupUsers": "node getGroupUsers.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Adrian Menzel",
